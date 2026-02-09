@@ -41,4 +41,6 @@ jobs:
             cd agora-backend &&
             go vet ./...
       - name: Run unit + integration tests
-        run: go test ./... -count=1 -race
+        run: |
+            cd agora-backend &&
+            go test ./... -count=1 -race
