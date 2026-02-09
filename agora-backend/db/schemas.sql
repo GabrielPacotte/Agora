@@ -1,0 +1,9 @@
+\i schemas/common.sql
+\i schemas/users.sql
+\i schemas/user_preferences.sql
+\i schemas/posts.sql
+\i schemas/comments.sql
+\i schemas/saved_content.sql
+\i schemas/reports.sql
+\i schemas/moderation_actions.sql
+\i schemas/sessions.sql

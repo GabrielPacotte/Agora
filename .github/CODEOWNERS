@@ -1,0 +1,23 @@
+# Global default owner
+* @GabrielPacotte
+
+# Core domain & business logic
+/internal/domain/        @GabrielPacotte
+/internal/services/      @GabrielPacotte
+/internal/repositories/  @GabrielPacotte
+
+# HTTP API layer
+/internal/http/          @GabrielPacotte
+
+# Authentication & security
+/internal/auth/          @GabrielPacotte
+
+# Database & SQL
+/db/                     @GabrielPacotte
+
+# Documentation
+/docs/                   @GabrielPacotte
+README.md                @GabrielPacotte
+CONTRIBUTING.md          @GabrielPacotte
+VISION.md                @GabrielPacotte
+CHANGELOG.md             @GabrielPacotte

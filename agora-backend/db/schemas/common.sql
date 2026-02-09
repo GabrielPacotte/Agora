@@ -1,0 +1,5 @@
+CREATE SCHEMA IF NOT EXISTS agora;
+
+CREATE TABLE IF NOT EXISTS agora.tags (
+    value TEXT PRIMARY KEY
+);
